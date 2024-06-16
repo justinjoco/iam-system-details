@@ -1,13 +1,12 @@
 # Overview
-Code link: https://github.com/justinjoco/iam-system
+[Project link](https://github.com/justinjoco/iam-system)
 
-# Data Models
+# System Design
+[Draw.io](https://drive.google.com/file/d/1Nzqp5tkNK8iiA9B_o1vCYUOX3SASFdKi/view?usp=sharing)
 
-# APIs
+# Video Demo
 
-# High-level diagrams
+# Project Discussion
 
-# Implementation details
-
-# Discussion
+# Future Work/Conclusions
 
